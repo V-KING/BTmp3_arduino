@@ -14,9 +14,11 @@
  * limitations under the License.
  */
 
-package com.example.android.BluetoothChat;
+package com.vk.BTcar;
 
 import java.util.Set;
+
+import com.example.android.BTcar.R;
 
 import android.app.Activity;
 import android.bluetooth.BluetoothAdapter;
